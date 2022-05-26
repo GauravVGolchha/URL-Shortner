@@ -1,2 +1,11 @@
 # URL-Shortner
-Shortens a URL using Python  Important points -  Install flask on your system Run the app.py file to get the local host id Redirect to the local host using any browser On entering a long url and clicking on Generate Short URL, you will get redirected to the next page The short url is generating using random library of python and is a 6 length alphanumeric string The new url can be copied to clipboard /all_urls redirects to the database containing all long and corresponding short urls The database used is SQLAlchemy Flask has been used for the Backend and HTML CSS Bootstrap for the Frontend
+Shortens a URL using Python  
+#### Key points :
+ ** The database used is SQLAlchemy 
+##### 1> Install flask on your system
+##### 2> Run the app.py file to get the local host id. 
+##### 3> Redirect to the local host using any browser 
+##### 4> On entering a long url and clicking on Generate Short URL, you will get redirected to the next page 
+##### 5> The short url is generated using random library of python and is a 6 length alphanumeric string
+##### 6> Copy to clipboard option available
+##### 7> /all_urls redirects to the database containing all long and corresponding short urls 
